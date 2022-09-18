@@ -4,6 +4,13 @@ This repo was created to the purpose of reviewing a paper submitted to the SIAM 
 
 This mesh generator needs a initital triangulation to generate a new mesh. You can generate a quick triangulation with the software [triangle](https://www.cs.cmu.edu/~quake/triangle.html) with the [command -zn](https://www.cs.cmu.edu/~quake/triangle.switch.html).
 
+For build the project
+
+```
+cd build
+cmake ..
+make
+```
 
 Input commands of the polygonal mesh generator are:
 
