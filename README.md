@@ -24,6 +24,7 @@ For example
 ./meshGenerator ../data/points1000.1.node ../data/points1000.1.ele ../data/points1000.1.neigh points1000.2
 ```
 
+The output file is a OFF file, you can visualize this file using geomview or meshlab.
 
 ## Scripts
 
