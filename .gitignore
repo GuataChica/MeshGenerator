@@ -4,8 +4,6 @@ build/*/*/*
 !build/generatefromfile.sh
 !build/generatemesh.sh
 !build/generatemesh_withplotting.sh
-data/*
-data/*/*
 
 !data/datagenerator.sh
 !data/datagenerator_withplotting.sh
@@ -21,6 +19,8 @@ pruebas/output/*.1.pg
 !pruebas/output/
 !pruebas/output/*.json
 !pruebas/randomPoints.py
+
+
 
 sdsl-lite/build/CMakeCache.txt
 
